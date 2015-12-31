@@ -3,15 +3,15 @@
 
 name = "Blackcase"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
-description = ""
+licenselink = "https://github.com/stromberg/site/LICENSE.md"
+description = "black case"
 homepage = "http://siteforthistheme.com/"
 tags = ["", ""]
 features = ["", ""]
 min_version = 0.15
 
 [author]
-  name = ""
+  name = "Thomas Stromberg"
   homepage = ""
 
 # If porting an existing theme
