@@ -1,0 +1,8 @@
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-us"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "http://tstromberg.github.io/"
+title = "data dump."
+theme = "blackcase"
