@@ -3,14 +3,22 @@
 *.a
 *.so
 
-# vim
-*.swp
+# corp
+*google*
+
+# backups
 *~
+*.swo
+*.swp
 
 
 # Folders
 _obj
 _test
+backup
+bundle
+cache
+sessions
 
 # Architecture specific extensions/prefixes
 *.[568vq]
