@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unfinished bike</title>
+    <link>http://unfinished.bike/</link>
+    <description>Recent content on unfinished bike</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jan 2019 05:35:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://unfinished.bike/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genesis</title>
+      <link>http://unfinished.bike/ephemeris/genesis/</link>
+      <pubDate>Thu, 03 Jan 2019 05:35:28 +0000</pubDate>
+      
+      <guid>http://unfinished.bike/ephemeris/genesis/</guid>
+      <description>2019? Here we go.</description>
+    </item>
+    
+  </channel>
+</rss>
