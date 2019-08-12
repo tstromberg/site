@@ -1,4 +1,4 @@
-baseURL = "http://unfinished.bike/"
+baseURL = "http://thomas.stromberg.org/"
 languageCode = "en-us"
-title = "unfinished bike"
-theme = "unfinished_bike"
+title = "thomas stromberg"
+theme = "mediumish"
