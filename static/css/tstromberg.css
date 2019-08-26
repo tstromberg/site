@@ -1,0 +1,43 @@
+/*
+#4CB5F5 - Blue Sky
+#3CA5E5 - Darker Blue Sky
+#B7B8B6 - Granite
+#D7D8D6 - Light Granite
+#24574C - Darker Pine
+#34675C - Pine
+#B3C100 - Fields
+*/
+header {
+    border-bottom: 0;
+    background: #B3C100;
+    font-size: 1rem;
+}
+
+li.current a {
+    color: #24574C;
+}
+li.current a::before { content: "{"; }
+li.current a::after { content: "}"; }
+
+a {
+    color: #3CA5E5;
+}
+
+header a {
+    color: #333;
+}
+
+br {
+    background-color: #B7B8B6;
+    display: block;
+    border: 1px solid #f00;
+}
+
+footer {
+    background-color: #D7D8D6;
+    padding: 1rem;
+}
+
+footer hr {
+    display: none;
+}
