@@ -24,5 +24,5 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "Struggle against impermanence."
-    footer = "[Github](https://github.com/tstromberg) | [Twitter](https://twitter.com/helixblue) | [Email](t+ephemeris@stromberg.org)"
+    footer = "[github](https://github.com/tstromberg) : [twitter](https://twitter.com/helixblue) : [e-post](t+ephemeris@stromberg.org)"
     custom_css = ["css/tstromberg.css"]

@@ -5,7 +5,7 @@ title: home
 
 ## Thomas
 
-### :cyclone: Learning via continuous near-failure
+### :cyclone: Learning through continuous near-failure
 
 Born in Sweden, and based out of San Francisco, Thomas is imposter syndrome personified:
 
