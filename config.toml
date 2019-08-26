@@ -1,4 +1,28 @@
-baseURL = "http://thomas.stromberg.org/"
+baseurl = "/"
 languageCode = "en-us"
-title = "thomas stromberg"
-theme = "mediumish"
+title = "tstromberg"
+theme = "hugo-classic"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "ephemeris"
+    url = "/ephemeris"
+    weight = 1
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+[[menu.feed]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "Struggle against impermanence."
+    footer = "[Github](https://github.com/tstromberg) | [Twitter](https://twitter.com/helixblue)"
+    custom_css = ["css/theme-override.css"]

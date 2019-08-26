@@ -1,10 +1,8 @@
 ---
 title: "Santa Rosa: Pedals & Pints"
-date: 2018-10-01T15:25:19+02:00
-publishdate: 2018-10-07T11:17:14+02:00
-lastmod: 2018-10-08T18:55:29+02:00
+date: 2019-08-25
 image: "sunset.jpg"
-tags: ["travel", "sonoma", "bikes"]
+tags: ["travel", "sonoma", "cycling"]
 type: "post"
 comments: true
 ---
