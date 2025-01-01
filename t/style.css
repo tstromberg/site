@@ -46,7 +46,7 @@ div#name {
     margin-left: 0.5em;
     margin-top: auto;
     margin-bottom: auto;
-    flex-grow: 3;
+    flex-grow: 5;
 }
 
 .menuitem {
