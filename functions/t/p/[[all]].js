@@ -1,5 +1,7 @@
 export async function onRequestGet(ctx) {
-  var path = new URL(ctx.request.url).pathname.replace("/t/p/", "");
+  var path = new URL(ctx.request.url).pathname.replace("/t/p", "");
+
+  path = path.replace(/^\/+/, "");
 
   if (path == "") {
     console.log("${path} is empty");
