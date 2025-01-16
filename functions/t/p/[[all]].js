@@ -4,7 +4,7 @@ export async function onRequestGet(ctx) {
     path = path + "index.html";
   }
   const file = await ctx.env.MEDIA.get(path);
-  console.log(`URL ${context.request.url} became path: ${path}`);
+  console.log(`URL ${ctx.request.url} became path: ${path}`);
 
   if (!file) return new Response(null, { status: 404 });
   return new Response(file.body, {
